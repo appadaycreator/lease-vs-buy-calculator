@@ -1,0 +1,8 @@
+{
+  "name": "Lease Vs Buy Calculator",
+  "short_name": "lease-vs-buy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1"
+}
