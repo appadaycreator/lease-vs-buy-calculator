@@ -1,8 +1,9 @@
 {
   "name": "Lease Vs Buy Calculator",
   "short_name": "lease-vs-buy",
-  "start_url": "/",
+  "start_url": "/lease-vs-buy-calculator/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/lease-vs-buy-calculator/"
 }
